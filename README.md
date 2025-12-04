@@ -22,7 +22,7 @@ A desktop application that implements the Pomodoro Technique, a time management 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/momed-ali01/pomodoro-technique.git
+git clone https://github.com/<username>/pomodoro-technique.git
 cd pomodoro-technique
 ```
 
